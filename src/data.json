@@ -1,0 +1,78 @@
+[
+    {
+        "code": "F134",
+        "message": "",
+        "type": "",
+        "data": {
+            "entityId": "1",
+            "name": "Dina",
+            "identificationNumber": "54531",
+            "expirationDate": "10-10-2010",
+            "contactName": "Miguel Castro",
+            "contactEmail": "miguel@hotmail.com",
+            "logo": "DinaLogo"
+        },
+        "traceId": "237615"
+    },
+    {
+        "code": "B123",
+        "message": "",
+        "type": "",
+        "data": {
+            "entityId": "2",
+            "name": "Surtir",
+            "identificationNumber": "27242",
+            "expirationDate": "05-05-2005",
+            "contactName": "Lis Salinas",
+            "contactEmail": "lis@hotmail.com",
+            "logo": "SurtirLogo"
+        },
+        "traceId": "378328"
+    },
+    {
+        "code": "X488",
+        "message": "",
+        "type": "",
+        "data": {
+            "entityId": "3",
+            "name": "Dell",
+            "identificationNumber": "14895",
+            "expirationDate": "06-06-2006",
+            "contactName": "Juan Ruiz",
+            "contactEmail": "juan@hotmail.com",
+            "logo": "DellLogo"
+        },
+        "traceId": "782744"
+    },
+    {
+        "code": "C423",
+        "message": "",
+        "type": "",
+        "data": {
+            "entityId": "4",
+            "name": "Bler",
+            "identificationNumber": "36542",
+            "expirationDate": "12-12-2012",
+            "contactName": "Lida Mora",
+            "contactEmail": "lida@hotmail.com",
+            "logo": "BlerLogo"
+        },
+        "traceId": "397245"
+    },
+    {
+        "code": "F134",
+        "message": "",
+        "type": "",
+        "data": {
+            "entityId": "5",
+            "name": "Every",
+            "identificationNumber": "89612",
+            "expirationDate": "08-08-1993",
+            "contactName": "Maria Diaz",
+            "contactEmail": "maria@hotmail.com",
+            "logo": "EveryLogo"
+        },
+        "traceId": "12536"
+    }
+]
+    
